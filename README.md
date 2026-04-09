@@ -19,8 +19,3 @@ CSS3 – Styling, animations, 3D effects
 JavaScript – Interactivity and dynamic elements
  Project Goal
 This project was created to build a digital developer identity and showcase my skills in front-end development and creative UI design.
-If you want, I can also give you 3 more README sections that will make your GitHub look more professional, like:
- Live Demo section
- Project Structure
- Screenshots section
-These increase internship chances when someone opens your GitHub.
